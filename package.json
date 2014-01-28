@@ -1,0 +1,14 @@
+{
+  "name": "sc-omit",
+  "version": "0.0.0",
+  "description": "Omit keys from an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "David Tsuji",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "~2.1.0"
+  }
+}
